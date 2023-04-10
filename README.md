@@ -1,6 +1,6 @@
 # Hi, I'm Alec!
 
-Hi there! My name is Alec Torres and I am a full stack software developer prepared for any new challenge presented to me. I live in Spotsylvania, Virginia. Any opportunity earned is one that I will give full dedication to and use to build myself to be an even more effective person. I am well equipped in the skills of HTML, CSS, JavaScript, and Python.
+Hi there! My name is Alec Torres and I am a full stack software developer prepared for any new challenge presented to me. I live in Brentwood, NY. Any opportunity earned is one that I will give full dedication to and use to build myself to be an even more effective person. I am well equipped in the skills of HTML, CSS, JavaScript, and Python.
 
 
 Please get in touch with me on the following social media platforms; I enjoy building new relationships. I am excited to continue to learn and grow in this career field! 
